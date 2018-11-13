@@ -1,0 +1,19 @@
+.box {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0, auto;
+  width: 20%;
+  height: 3px;
+  background-color: black;
+}
+
+.word {
+  position: relative;
+  display: inline-block;
+  width: auto, 0;
+}
+
+h1{
+  margin-bottom: 5px;
+}
